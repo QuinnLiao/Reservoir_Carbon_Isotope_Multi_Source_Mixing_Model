@@ -42,11 +42,11 @@ The sources also have associated standard deviations (source_sds_photic, source_
 
 2. Loop through each layer and isotope value:
 
-    Load data into simmr_load().
+    **Load data into simmr_load().**
 
-    Run Bayesian MCMC model using simmr_mcmc().
+    **Run Bayesian MCMC model using simmr_mcmc().**
 
-    Extract results and save them to a CSV file.
+    **Extract results and save them to a CSV file.**
 
 3. Save results: The processed data is written to simmr_results_summary_test.csv.
 
