@@ -1,1 +1,1 @@
-# C14_simmr
+# C14 Isotope Analysis with simmr
