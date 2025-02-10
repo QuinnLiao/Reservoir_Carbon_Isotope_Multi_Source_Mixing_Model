@@ -1,4 +1,4 @@
-# C14 Isotope Analysis with simmr
+# Reservoir Carbon Isotope Multi-Source Mixing Model
 
 # Overview
 
